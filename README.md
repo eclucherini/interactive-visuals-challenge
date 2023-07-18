@@ -1,4 +1,7 @@
-# interactive-visuals-challenge
+# Belly-Button-Challenge
+
+![image](https://github.com/eclucherini/interactive-visuals-challenge/assets/127071036/e2a02196-b9d3-4590-a220-0ef5536f33a2)
+
 
 # Requirements
 Bar Chart (30 points)
